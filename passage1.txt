@@ -1,0 +1,57 @@
+INTRODUCTION 
+3DMark2000 is a benchmark that focuses on testing 3D performance of modern 3D accelerators in a "real world" environment. As most users will use their 3D accelerator for playing games, 3DMark focuses on these types of applications in most of its results. 
+
+The 3DMark product line is the most comprehensive benchmark platform available for testing future game performance. The input from our BETA program, game developers and users allows us to predict what is going to be important for future game playing. We are delighted to introduce 3DMark2000 as the next stage of benchmarking. 3DMark2000 pushes the performance barrier yet again and moves benchmarks into the next Millennium. 
+
+3DMark2000 is also a powerful tool for improving your 3D performance and it helps you make informed decisions when choosing new hardware.
+
+3DMARK2000 v1.1 IMPROVEMENTS 
+Major improvements: 
+
+3DMark2000 v1.1 now detects new processors like the Intel Celeron with SSE and AMD Duron correctly. 
+3DMark2000 v1.1 is now fully compatible with Windows 2000. Installation problems, instability during testing, command line support and connection to MadOnion.com Online ResultBrowser have been corrected. 
+Minor corrections: 
+
+In 3DMark2000 v1.1 help files, the factor for calculating the 3DMark score has been corrected. 
+A problem with a registry string that made system info inoperable, causing 3DMark2000 not to start on some systems, has been corrected. 
+The rarely occurred problem causing a "Demo.ras not found" error message, has been corrected. 
+With Direct3D Software T&L optimizations, the High Polygon Count test results are now unaffected if Game Test 2 high detail was run before it. 
+
+GENERAL INFORMATION 
+IMPORTANT NOTES:
+3DMark2000 Benchmark Results are incompatible with results from the previous versions of 3DMark 99 and 3DMark 99 MAX. You should not compare the results obtained from different versions. 
+
+However, results from the original release of 3DMark2000 and v1.1 of 3DMark2000 ARE COMPARABLE. When comparing results, please note that every performance testing tool has a small error margin. If testing conditions do not vary, 3DMark2000 is accurate within a 3% error margin. 
+
+DirectX 7
+3DMark2000 v1.1 requires DirectX 7. You can download it from http://www.microsoft.com/directx/download.asp or through the "Windows Update" function in Windows 98. DirectX 7 is included in Windows 2000. 
+
+Minimum Requirements to use 3DMark: 
+
+IntelR PentiumR processor with MMX Technology or compatible. Minimum 166 MHz 
+64 MB of memory 
+Microsoft Windows 95, 98 or Windows 2000 Professional 
+Microsoft DirectX 7 
+A DirectX 7 compatible 3D accelerator & drivers 
+Additional Recommendations for Testing: 
+128 MB of system memory 
+Free hard disk space for Image Quality pictures 
+Windows 98 or newer. 
+
+TROUBLESHOOTING Q&A 
+Please go to http://www.madonion.com/support for up-to-date support and FAQ information, as well as a current list of problems or compatibility issues with the program.
+
+3DMark2000 v1.1 Support 
+
+If you have problems running 3DMark2000 v1.1, or have any related questions, please take the following steps:
+
+1. Read the 3DMark2000 v1.1 Frequently Asked Questions at MadOnion.com/support. We have answered the most common questions and it is likely you will find an answer from there.
+
+2. Make sure you have Microsoft DirectX 7 installed and working. If you don't have it yet, download it from Microsoft. 
+
+3. If 3DMark v1.1 doesn't run correctly with your 3D accelerator card, install the most recent display drivers. 3DMark requires DirectX 7 compatible display drivers. At 3DMark2000 v1.1 release time, not all manufacturers have public, stable DirectX 7 drivers for Windows 2000. 
+
+4. If you have still problems with the display drivers, please contact your 3D accelerator card manufacturer's support department. 
+
+5. If the problem persists, feel free to contact us at support@MadOnion.com. Please include at least the following information to the problem description if possible: 
+

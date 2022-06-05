@@ -1,0 +1,18 @@
+Be aware that under Windows 95/98, if you are using shared privileges 
+to share drives and you add or remove a partition (causing the drive 
+letters to change), you may experience some security problems.
+
+The following is a possible example of a security problem sharing 
+drive letters under Windows 95/98 after partitioning your hard drive.
+Assume that before you partitioned your hard drive, your CD-ROM drive
+had shared privileges for drive D:.  After you added a partition, 
+your CD-ROM became drive E:.  However, your shared privileges would 
+still be assigned to drive D. Therefore, you could potentially be 
+sharing information from your D: partition that you do not wish to 
+share.
+
+To resolve this problem, you may want to check (and if necessary, 
+reset) your shared privileges in Windows 95/98 after you have added 
+or removed a partition. You will not be affected by this situation if
+you share a directory and its parent directory and its parent drive 
+letter changes because the shared privilege would be lost.

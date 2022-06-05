@@ -1,0 +1,14 @@
+Recover from download errors and resume failed downloads, manage and categorize files to
+download later and get those files from the most responsive site with Go!Zilla.
+Gather links to files that you want to download by simply dragging them from your favorite
+internet browser or Go!Zilla can integrate with your browser for easy click and download support.
+You manage and categorize your files using an intuitive Explorer-style interface. Instantly see
+file sizes, estimated download times and network connection performance. You can even add as many
+different locations for a single file as you can find or let Go!Zilla do the work by quickly
+searching FTP archives.  Then when Go!Zilla retrieves the file for you, it checks all available
+locations and delivers the fastest possible connection. Now with download optimization, GoZilla
+will intelligently switch between mirror sites to meet your minimum transfer speed requirements.
+Go!Zilla will even resume a failed download from both FTP and HTTP web sites.
+Downloads can be started at any time, or scheduled for later when network traffic dies down.
+And with MonsterUpdate you will be automatically notified of updates and information about your
+favorite programs.

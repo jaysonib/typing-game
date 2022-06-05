@@ -1,0 +1,38 @@
+Microsoft Bookshelf 2000
+
+Be sure to carefully read and understand all of the rights and restrictions described in the EULA. You will be asked to review and either accept or not accept the terms of the EULA.  This product will not set up on your computer unless or until you accept the terms of the EULA.  
+NOTE: The terms of a printed, paper EULA which may accompany the SOFTWARE PRODUCT supersede the terms of any on-screen EULA found within the SOFTWARE PRODUCT.
+
+For your future reference, you may print the text of the EULA, or refer to a copy of the EULA that can be found in the EULA.txt  file of this product.   If you would like to print the EULA before proceeding, please exit set-up by pressing the "disagree" button and then print the EULA from the EULA.txt  file.  You may resume set-up at any time. 
+
+You may also receive a copy of this EULA by contacting the Microsoft subsidiary serving your country, or write:  Microsoft Sales Information Center/One Microsoft Way/Redmond, WA 98052-6399.
+
+END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+
+IMPORTANT-READ CAREFULLY: This Microsoft End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Microsoft Corporation for the Microsoft software product identified above, which includes computer software and may include associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). The SOFTWARE PRODUCT also includes any updates and supplements to the original SOFTWARE PRODUCT provided to you by Microsoft.  Any software provided along with the SOFTWARE PRODUCT that is associated with a separate end-user license agreement is licensed to you under the terms of that license agreement. By installing, copying, downloading, accessing or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT; you may, however, return it to your place of purchase for a full refund.
+
+SOFTWARE PRODUCT LICENSE
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold.
+
+1. GRANT OF LICENSE. This EULA grants you the following rights:
+Applications Software. You may install, use, access, display, run, or otherwise interact with ("RUN") one copy of the SOFTWARE PRODUCT, or any prior version for the same operating system, on a single computer, workstation, terminal, handheld PC, pager, "smart phone," or other digital electronic device ("COMPUTER"). The primary user of the COMPUTER on which the SOFTWARE PRODUCT is installed may make a second copy for his or her exclusive use on a portable computer.
+
+Storage/Network Use. You may also store or install a copy of the SOFTWARE PRODUCT on a storage device, such as a network server, used only to RUN the SOFTWARE PRODUCT on your other COMPUTERS over an internal network; however, you must acquire and dedicate a license for each separate COMPUTER on which the SOFTWARE PRODUCT is RUN from the storage device. A license for the SOFTWARE PRODUCT may not be shared or used concurrently on different COMPUTERS.
+
+License Pack. If this package is a Microsoft License Pack, you may RUN additional copies of the computer software portion of the SOFTWARE PRODUCT up to the number of copies specified above as "Licensed Copies". You are also entitled to make a corresponding number of secondary copies for portable computer use as specified above.
+
+Reservation of Rights.  All rights not expressly granted are reserved by Microsoft.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+ 
+Academic Edition Software. If the SOFTWARE PRODUCT is identified as "Academic Edition" or "AE," you must be a "Qualified Educational User" to use the SOFTWARE PRODUCT. If you are not a Qualified Educational User, you have no rights under this EULA. To determine whether you are a Qualified Educational User, please contact the Microsoft Sales Information Center/One Microsoft Way/Redmond, WA 98052-6399 or the Microsoft subsidiary serving your country. 
+
+Not for Resale Software. If the SOFTWARE PRODUCT is labeled "Not For Resale" or "NFR," then, notwithstanding other sections of this EULA, your use of the SOFTWARE PRODUCT is limited to use for demonstration, test, or evaluation purposes and you may not resell, or otherwise transfer for value, the SOFTWARE PRODUCT.
+
+Limitations on Reverse Engineering, Decompilation, and Disassembly. You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. 
+
+Separation of Components. The SOFTWARE PRODUCT is licensed as a single product. Its component parts may not be separated for use on more than one COMPUTER. 
+
+Trademarks.  This EULA does not grant you any rights in connection with any trademarks or service marks of Microsoft.
+
+Rental. You may not rent, lease, or lend the SOFTWARE PRODUCT

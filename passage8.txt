@@ -1,0 +1,49 @@
+SUMMARY
+  If Windows ME Starts Only in Safe Mode
+
+TYPES OF WINDOWS ME INSTALLATION MEDIA AND METHODS
+  Windows Millennium Edition (Retail Version)
+  Windows Millennium Edition (Upgrade Version)  
+  How Windows ME Upgrade Setup Searches for Previous Versions
+  Clean Installations
+  OEM Versions of Windows ME
+
+IF WINDOWS ME DOES NOT START IN SAFE MODE
+  Using ScanDisk to check your hard disk
+  Using Windows Registry Checker
+
+IF SETUP STOPS AND WINDOWS ME WILL NOT START IN SAFE MODE
+  A Note on Anti-Virus Software
+  Setup Stops Responding During Hardware Detection
+
+UNINSTALLING WINDOWS ME
+
+INSTALLING WINDOWS ME WITH WINDOWS NT OR WINDOWS 2000
+
+INSTALLING WINDOWS ME ON A NEW HARD DISK
+
+
+=======
+SUMMARY
+=======
+
+If you have problems setting up or starting Windows ME, try 
+starting your computer in Safe Mode before trying the steps 
+outlined in this document.
+
+If you can start in Safe Mode, see the Windows Millennium Edition 
+Safe Mode Troubleshooter on the Safe Mode warning page. In Safe 
+Mode, you can use Windows Troubleshooting tools, such as System 
+Restore, which are not available from this Startup disk.
+
+To start Windows in Safe Mode:
+
+1. Remove the Startup disk, and then restart your computer. 
+
+2. As soon as the computer restarts, press and hold down the 
+   CTRL key until the Microsoft Windows Millennium Edition 
+   Startup Menu appears.
+
+3. On the Startup menu, choose Safe Mode (option 3).
+
+4. Follow the steps in the Safe Mode Troubleshooter.

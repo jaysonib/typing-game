@@ -1,0 +1,27 @@
+Several viruses, such as Frankenstein and Stoned.Empire.Monkey, cause
+your hard disk to "disappear" when booting from a clean floppy disk.
+This occurs because the virus either encrypts or relocates the hard
+disk partition table (a vital part of the disk's system area).
+
+All "appears" well when you boot from your hard disk because the
+virus actives in memory and tells DOS where the partition table is
+relocated, or acts as the partition table itself. If you boot clean,
+DOS can't find the partition table and the virus isn't around to give
+directions. You may receive an "Invalid drive specification" or
+similar error when trying to access the hard disk.
+
+When you boot clean so NAV can repair such an infection, the hard
+disk will not appear in the drive list. Don't worry! NAV, with the
+default options enabled, will bypass DOS and look directly at the
+hard disk to check the system area for infection, no matter what you
+scan. For example, scanning a floppy disk will scan memory, the
+floppy disk, and the system area of the hard disk. If such an
+infection is discovered, you are alerted appropriately.
+
+NOTE: IDE hard drives larger than 1024 cylinders often require the
+use of additional driver or overlay files. If you have such a drive,
+you may need to include these additional files on your Norton
+AntiVirus Rescue Disk to ensure recovery from virus emergencies. Make
+sure that any special driver or overlay files for your hard drive,
+which are part of your normal system configuration, are included on
+your rescue disk.

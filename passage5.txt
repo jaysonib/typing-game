@@ -1,0 +1,19 @@
+Solution: PARTINFO.DAT is the file that stores a copy of the partition data
+on your computer. If you have an IDE or ATAPI zip drive, make sure it is not 
+configured in the BIOS settings as it can cause this error to appear. You can
+look at these settings from a setup program that can run when your computer
+is booting up. Usually, you will see a message on bootup to enter a setup 
+utility by pressing F1 or Del. It is from this program that you can see 
+whether the zip drive is listed among devices attached to the IDE ports on
+your computer. You can set up the port that contains the zip drive to NONE,
+instead of AUTO, to stop the BIOS configuration of the zip drive from
+occuring.
+
+Note: this error is also common if you have security software like Your
+Eyes Only, or if you have NTFS partitions on the hard drive.
+
+
+Problem: When rescue starts to copy files over, I see a Disk Write Error
+message on the screen.
+
+Solution: The zip disk or the floppy diskette may be physically damaged.

@@ -1,0 +1,49 @@
+Symantec has documentation in our online knowledgebase that can assist 
+you in using LiveUpdate with America Online.  Please go to the 
+following URL to review this information:
+
+http://service1.symantec.com/SUPPORT/sharedtech.nsf/docid/19982515512
+
+An important issue in configuring LiveUpdate to work with AOL is to 
+first make sure you are using a Windows 95/98 version of the AOL 
+software. Many free CD's that AOL makes available do not contain this 
+version, but the Windows 3.x version instead.  While that version can 
+be run under Win 95 or 98, it will not provide you with the necessary 
+32-bit Internet connection that is required by LiveUpdate.
+
+To check this, go to the HELP menu in your AOL software, and choose the 
+"About" option.  If the screen does not say that it is a version for 
+Windows 95 or Windows 98, then you have the incorrect AOL software 
+installed.
+
+You can download the latest Win 95/98 version of the AOL software 
+directly from AOL by going to this web page:
+
+http://www.aol.com/downloadaol.adp
+
+Once you have verified the correct AOL software is installed, you may 
+follow these steps to get LiveUpdate to work with an AOL connection.
+
+Note: if you are using AOL to connect to the Internet via your modem, 
+LiveUpdate requires that a TCP/IP connection be established prior to 
+launching LiveUpdate. Note that Symantec is not liable for any phone 
+charges incurred when making this dial up connection.
+
+1) Update to the latest release of LiveUpdate.  Normally, LiveUpdate 
+will automatically update itself.  However, following the instructions 
+in the section above titled "INSTALLING/UNINSTALLING LIVEUPDATE" will 
+ensure that you have the most current version of LiveUpdate.
+
+2) Click on the START button on your desktop, then select SETTINGS, and 
+then CONTROL PANEL.  Then double click on the LiveUpdate icon. 
+
+3) Next, click on the ISP tab.  SELECT the option to "The Internet 
+options in the Control Panel". If you do this, LiveUpdate will 
+automatically use your already opened Internet connection.
+
+4) Sign on to your AOL account. The AOL software will dial your AOL 
+access phone number and make the Internet connection.
+
+5) Once connected, launch LiveUpdate from your Symantec software. The 
+software will then detect your already opened AOL connection, and use 
+it to download any available Symantec software updates that you require.

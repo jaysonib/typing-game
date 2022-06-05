@@ -1,0 +1,31 @@
+Try connecting the Zip Drive directly to the parallel port. Disconnect any 
+other devices attached to the zip drive, as well, as these conditions can 
+prevent the driver from finding the zip drive.
+
+Parallel Zip drives require a parallel port chipset driver. If you look at 
+the CONFIG.SYS file on the Rescue diskette, you will see a line that reads:
+
+DEVICEHIGH=ASPIPPM1.SYS FILE=SMC.ILM
+
+or something similar. The key is the ILM driver after the second = sign; this
+is the driver that will provide optimum performance from your parallel port 
+chipset. In some cases, the parallel port chipset will not function correctly
+in optimized mode. In this case, change the .ILM driver to the most generic
+type, which should work with almost any chipset. To do this, use one of these
+procedures:
+
+
+If the CONFIG.SYS line is installing ASPIPPM1.SYS, change it to read:
+DEVICEHIGH=ASPIPPM1.SYS FILE=NIBBLE.ILM
+
+If the CONFIG.SYS line is installing ASPIPPM2.SYS, change it to read:
+DEVICEHIGH=ASPIPPM2.SYS FILE=NIBBLE2.ILM
+
+
+NOTE:
+Some BIOSes (like Award) allow you to set various parallel drivers in the
+system setup or CMOS. Changing this setting to "Standard" often corrects
+problems with parallel Zip drives.
+
+
+IDE and ATAPI Zip drives

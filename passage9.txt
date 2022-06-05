@@ -1,0 +1,40 @@
+Nero is able to access the free online internet cd database
+(http://freedb.freedb.org). However Nero is also capable of
+handling two kinds of local CD databases.
+
+The program database (if available) usually contains a copy
+of the contents of the free internet cd database. The user
+database is used to store information about user defined cd
+entries.
+
+Unfortunately we may not install the imported database
+automatically due to licensing problems. Users with fast
+and cheap internet access will probably not need the
+local program database, whereas users without any internet
+access will probably find this database very useful.
+However importing the free cd database into the program
+database can take a long time (up to one day!). To import
+the free database, please proceed as follows:
+
+1) Extract the file "CDDB.zip", that can be found in the
+   folder "FreeCDDB" of the Nero master CD into a folder
+   of the harddisk by using an unzip program. You will
+   need about 120MB of free disk space for this operation.
+
+2) Create a new folder with the Windows Explorer. This folder
+   will contain the imported free cd database and will be
+   used as program CD database later. You will need about
+   250MB of free diskspace for this folder.
+
+3) Start Nero and choose the menu command "Extras"->"Import
+   internet CD database".
+
+4) Select the folder, that you have created in step 1)
+
+5) Select the folder, that you have created in step 2)
+
+6) Importing the free cd database can take a long time
+   (up to one day). This is caused by the huge size of
+   this database with more than 100.000 CD entries and
+   more than 1.000.000 title entries. You can abort this
+   operation by clicking the "cancel" button.
